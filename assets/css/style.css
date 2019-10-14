@@ -1,0 +1,154 @@
+
+
+html {
+
+    width: 100%;
+    
+}
+
+
+
+body {
+    background-image: url("../images/herringbone.jpg");
+
+    border-style: solid;
+    border-color: black;
+
+}
+
+h1 {
+
+    font-size: 36px;
+    line-height: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+.name {
+    padding: 20px;
+    background-color: teal;
+    float: left;
+}
+
+.header {
+    margin: 0 auto 0;
+    width: 960px;
+   height: 85px;
+    border-color: #cccccc;
+    background: white;
+    margin-bottom: 5vh;
+
+
+}
+
+
+h2  {
+
+    font-size: 34px;
+    background-color: #fff;
+    color: #777777;
+
+
+}
+
+#Contents {
+    margin: 0 auto 0;
+    width: 960px;
+    height: 50vh;
+    background: white;
+
+
+}
+
+.Btn {
+
+    position: relative;
+    
+
+
+}
+
+#pagewrap {
+
+    border-style: solid;
+    border-color: black;
+    
+
+}
+
+
+.picture {
+    
+    width: 200px;
+    float: left;
+    
+}
+
+
+
+
+ul {
+
+
+
+
+}
+
+ul li {
+
+    list-style: none;
+    display: inline-block;
+    float: right;
+    line-height: 50px;
+
+    
+}
+
+ul li a{
+    display: block;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    padding: 0px 20px;
+    
+
+
+
+
+}
+
+
+
+nav {
+    /* width: 100%; */
+    background-color: #fff;
+    /* position: relative; */
+
+}
+
+
+
+p   {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    color: #777777;
+    line-height: normal;
+
+    
+
+}
+
+.footer {
+    
+    border-top: 8px solid #4aaaa5;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    
+
+}
