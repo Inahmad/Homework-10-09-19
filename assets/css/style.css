@@ -69,6 +69,8 @@ h2  {
 
 }
 
+
+
 #pagewrap {
 
     border-style: solid;
@@ -79,12 +81,13 @@ h2  {
 
 
 .picture {
-    
     width: 200px;
     float: left;
-    
 }
 
+.rotate {
+    transform: rotate(90deg); 
+}
 
 
 
@@ -146,9 +149,13 @@ p   {
     border-top: 8px solid #4aaaa5;
     position: fixed;
     left: 0;
-    bottom: 0;
+    height: 75px;
     width: 100%;
     background-color: #666666;
+    color: #777777;
+    bottom: 0%
     
 
 }
+
+
