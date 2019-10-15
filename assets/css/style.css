@@ -57,6 +57,7 @@ h2  {
     width: 960px;
     height: 50vh;
     background: white;
+    border: solid #cccccc;
 
 
 }
@@ -152,8 +153,9 @@ p   {
     height: 75px;
     width: 100%;
     background-color: #666666;
-    color: #777777;
-    bottom: 0%
+    color:white;
+    bottom: 0%;
+    text-align: center
     
 
 }
